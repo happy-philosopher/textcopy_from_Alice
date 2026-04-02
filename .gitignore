@@ -1,0 +1,13 @@
+.idea/
+venv/
+.venv/
+img/
+util/*.html
+util/*.odt
+test*.py
+main_*.py
+*.json
+*.odt
+*.html
+*.txt
+yandex_cookies.pkl
