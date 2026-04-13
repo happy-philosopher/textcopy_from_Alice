@@ -10,4 +10,5 @@ main_*.py
 *.odt
 *.html
 *.txt
+*.log
 yandex_cookies.pkl
